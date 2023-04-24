@@ -1,6 +1,6 @@
 package net.javaguides.springboot.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "employees")
